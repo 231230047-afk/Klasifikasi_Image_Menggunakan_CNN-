@@ -22,7 +22,7 @@ st.set_page_config(
 )
 
 BASE_DIR = Path(__file__).resolve().parent
-OUT_DIR = BASE_DIR / "output"
+OUT_DIR = BASE_DIR
 
 MODEL_PATH = OUT_DIR / "final_oceanic_model.keras"
 CLASS_PATH = OUT_DIR / "class_names.json"
