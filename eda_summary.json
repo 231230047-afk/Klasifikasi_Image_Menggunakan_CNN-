@@ -1,0 +1,32 @@
+{
+  "n_images": 844,
+  "n_corrupt": 1,
+  "n_duplicates": 1162,
+  "width_median": 1000.0,
+  "height_median": 705.5,
+  "width_min": 32,
+  "width_max": 6144,
+  "height_min": 32,
+  "height_max": 4378,
+  "modes": {
+    "RGB": 830,
+    "P": 7,
+    "RGBA": 6,
+    "L": 1
+  },
+  "formats": {
+    "JPEG": 814,
+    "PNG": 21,
+    "WEBP": 5,
+    "GIF": 3,
+    "MPO": 1
+  },
+  "aspect_median": 1.4260249554367201,
+  "quality_flags": {
+    "low_res (<160 px)": 6,
+    "gelap (brightness<40)": 31,
+    "terlalu terang (>215)": 11,
+    "blur (5% paling tidak tajam, <243)": 43
+  },
+  "brightness_mean": 105.24392367539248
+}
